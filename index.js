@@ -27,7 +27,7 @@ startTimer = () => {
             minuts = 0
         }
 
-    }, 1000)
+    }, 10)
 }
 
 stopTimer = () => {
